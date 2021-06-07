@@ -2,7 +2,7 @@
 - 👀 I’m interested in autonomous vehicles.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on machine learning projects.
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/vishal-jadhav-6b4a9abb
 
 <!---
 Vishal1711/Vishal1711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
