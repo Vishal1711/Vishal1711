@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishal1711
 - 👀 I’m interested in autonomous vehicles.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning autonomus vehicle stuff.
 - 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 How to reach me https://www.linkedin.com/in/vishal-jadhav-6b4a9abb
 
