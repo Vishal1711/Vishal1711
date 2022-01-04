@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vishal1711
+- 👋 Hi, I’m Vishal
 - 👀 I’m interested in autonomous vehicles and robotics.
-- 🌱 I’m currently learning autonomus vehicle stuff.
+- 🌱 I’m currently graduate student at Clemson University - International Centre for Automotive Research
 - 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 How to reach me https://www.linkedin.com/in/vishal-jadhav-/
 
