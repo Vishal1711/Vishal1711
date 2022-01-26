@@ -3,7 +3,7 @@
 - 🌱 I’m currently graduate student at Clemson University - International Centre for Automotive Research
 - 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 How to reach me https://www.linkedin.com/in/vishal-jadhav-/
-- https://visitor-badge.glitch.me/badge?page_id=Vishal1711.Vishal1711
+-     https://visitor-badge.glitch.me/badge?page_id=Vishal1711.Vishal1711
 
 <!---
 Vishal1711/Vishal1711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
