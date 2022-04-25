@@ -1,12 +1,24 @@
-- 👋 Hi, I’m Vishal
-- 👀 I’m interested in autonomous vehicles and robotics technologies.
-- 🌱 I’m currently graduate student at Clemson University - International Centre for Automotive Research
-- 💞️ I’m looking to collaborate on Deep Learning projects.
-- 📫 How to reach me https://www.linkedin.com/in/vishal-jadhav-/
-![](https://komarev.com/ghpvc/?username=Vishal1711)
-<!---
-Vishal1711/Vishal1711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi 👋 My name is Vishal
+=======================
+
+Autonomous Vehicles | Mobile Robots | Deep Learning | Cricket
+-------------------------------------------------------------
+
+Graduate Student at Clemson University - International Centre for Automotive Research
+
+* 🌍  I'm based in Greenville, SC
+* ✉️  You can contact me at [vjadhav@clemson.edu](mailto:vjadhav@clemson.edu)
+* 🧠  I'm learning Automotive Engineering.
+* 🤝  I'm open to collaborating on deep learning and autonomous vehicle projects.
+
+### Skills
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+</p>
 
 
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/VishalJ#9360" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Vishal1711" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vishal-jadhav-/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/Vishal1711" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/VishalSJ17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
