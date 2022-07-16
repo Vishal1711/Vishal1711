@@ -9,7 +9,7 @@ Graduate Student at Clemson University - International Centre for Automotive Res
 * 🌍  I'm based in Greenville, SC
 * ✉️  You can contact me at [vjadhav@clemson.edu](mailto:vjadhav@clemson.edu)
 * 🧠  I'm learning Automotive Engineering.
-* 🤝  I'm open to collaborating on deep learning and autonomous vehicle projects.
+* 🤝  I'm open to collaboration on deep learning and autonomous vehicle projects.
 *  :notebook_with_decorative_cover:   [Vishal Jadhav's Portfolio](https://vishal1711.github.io/VishalJadhav.github.io/)
 * ![](https://visitor-badge.glitch.me/badge?page_id=Vishal1711.Vishal1711)
 
